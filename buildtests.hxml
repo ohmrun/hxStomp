@@ -1,0 +1,8 @@
+-neko run.n
+-lib hx3compat
+-lib hxStomp
+-main com.meandowntime.hxstomp.test.main.TestSTOMPClient
+--next
+-neko demo.n
+-lib hxStomp
+-main com.meandowntime.hxstomp.test.main.Demo

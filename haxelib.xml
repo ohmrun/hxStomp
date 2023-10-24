@@ -1,0 +1,5 @@
+<project name="hxStomp" url="http://haxe.org/com/libs/hxStomp" license="BSD">
+    <user name="adadcalledrichard"/>
+    <description>This project provides a single-threaded TCP socket STOMP client for communication with STOMP-compliant message brokers (e.g. Apache ActiveMQ)</description>
+    <version name="0.1">Initial release</version>
+</project>
